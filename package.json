@@ -1,0 +1,19 @@
+{
+  "name": "analog_clock",
+  "version": "1.0.0",
+  "description": "Analog Clock with animation",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
